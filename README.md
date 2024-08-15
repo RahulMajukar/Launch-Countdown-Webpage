@@ -23,4 +23,4 @@ This project is a simple and elegant launch countdown webpage with a background 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/launch-countdown-webpage.git
+   git clone https://github.com/RahulMajukar/Launch-Countdown-Webpage.git
